@@ -85,14 +85,3 @@ Do multiple unrelated classes need the same extra behavior?
         └── Yes → Mixin is a good fit.
 ```
 
----
-
-**Author:** \[Your Name]
-**License:** MIT
-
-```
-
----
-
-If you want, I can also make this **README** come with a **flowchart image** like the one we made earlier so your repo looks extra polished and visually clear. That would be perfect for GitHub.
-```
